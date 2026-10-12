@@ -1,0 +1,352 @@
+# assets/template.pptx  (33.9 x 19.1 cm)
+
+[0] (一般內外部使用)封面
+    idx=10  BODY     x=5.0 y=10.3 w=23.9 h=2.2  Text Placeholder 17
+    idx=0   TITLE    x=5.0 y=5.0 w=23.9 h=5.1  Title 15
+    idx=18  BODY     x=14.0 y=15.7 w=5.8 h=1.2  Text Placeholder 31
+    idx=16  BODY     x=5.0 y=12.7 w=23.9 h=2.7  Text Placeholder 31
+[1] （對外使用）封面_高階主管/公司介紹使用_藍色
+    idx=16  BODY     x=3.9 y=13.8 w=26.0 h=1.9  Text Placeholder 31
+    idx=0   TITLE    x=3.9 y=9.7 w=26.0 h=4.0  Title 15
+    idx=17  BODY     x=14.0 y=15.8 w=5.8 h=1.2  Text Placeholder 31
+[2] 目錄
+    idx=10  BODY     x=8.2 y=2.2 w=23.9 h=13.4  Text Placeholder 17
+[3] （通用）過場頁
+    idx=10  BODY     x=4.7 y=6.4 w=24.6 h=3.8  Text Placeholder 17
+    idx=11  BODY     x=4.7 y=10.4 w=24.6 h=1.4  Text Placeholder 17
+    idx=12  BODY     x=1.4 y=14.5 w=5.7 h=3.8  Text Placeholder 17
+[4] （通用）感謝頁
+[5] Content_1
+    idx=2   OBJECT   x=1.1 y=3.3 w=31.5 h=14.3  Content Placeholder 3
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[6] Content 2
+    idx=2   OBJECT   x=1.1 y=4.5 w=31.5 h=13.1  Content Placeholder 3
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[7] Content 3
+    idx=2   OBJECT   x=1.1 y=5.6 w=31.5 h=12.0  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=4.4 w=31.5 h=1.0  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[8] Content 4
+    idx=10  OBJECT   x=1.1 y=11.7 w=31.5 h=5.9  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=10.6 w=31.5 h=1.0  Text Placeholder 2
+    idx=2   OBJECT   x=1.1 y=4.6 w=31.5 h=5.9  Content Placeholder 3
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[9] Content 10
+    idx=16  OBJECT   x=1.1 y=11.1 w=31.5 h=6.5  Content Placeholder 3
+    idx=2   OBJECT   x=1.1 y=4.6 w=31.5 h=6.5  Content Placeholder 3
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[10] Content 12
+    idx=16  OBJECT   x=1.1 y=11.6 w=31.5 h=6.0  Content Placeholder 3
+    idx=18  BODY     x=1.1 y=10.4 w=31.5 h=1.0  Text Placeholder 2
+    idx=2   OBJECT   x=1.1 y=4.4 w=31.5 h=5.9  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=3.2 w=31.5 h=1.0  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[11] Content 11
+    idx=16  OBJECT   x=1.1 y=12.2 w=31.5 h=5.4  Content Placeholder 3
+    idx=18  BODY     x=1.1 y=11.0 w=31.5 h=1.0  Text Placeholder 2
+    idx=2   OBJECT   x=1.1 y=5.6 w=31.5 h=5.4  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=4.4 w=31.5 h=1.0  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[12] Content 6
+    idx=17  OBJECT   x=17.0 y=4.5 w=15.6 h=13.1  Content Placeholder 3
+    idx=16  OBJECT   x=1.1 y=4.5 w=15.6 h=13.1  Content Placeholder 3
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[13] Content 7
+    idx=24  OBJECT   x=17.0 y=4.4 w=15.6 h=13.2  Content Placeholder 3
+    idx=23  BODY     x=17.0 y=3.2 w=15.6 h=1.0  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=4.4 w=15.6 h=13.2  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=3.2 w=15.6 h=1.0  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[14] Content 8
+    idx=24  OBJECT   x=17.0 y=5.6 w=15.6 h=12.0  Content Placeholder 3
+    idx=23  BODY     x=17.0 y=4.4 w=15.6 h=1.0  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=5.6 w=15.6 h=12.0  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=4.4 w=15.6 h=1.0  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[15] Content 13
+    idx=16  OBJECT   x=22.2 y=5.6 w=10.4 h=12.0  Content Placeholder 3
+    idx=17  BODY     x=22.2 y=4.5 w=10.4 h=0.9  Text Placeholder 2
+    idx=2   OBJECT   x=1.1 y=5.6 w=20.9 h=12.0  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=4.5 w=20.9 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[16] Content 15
+    idx=16  OBJECT   x=22.2 y=4.4 w=10.4 h=13.2  Content Placeholder 3
+    idx=17  BODY     x=22.2 y=3.3 w=10.4 h=0.9  Text Placeholder 2
+    idx=2   OBJECT   x=1.1 y=4.4 w=20.9 h=13.2  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=3.3 w=20.9 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[17] Content 14
+    idx=2   OBJECT   x=11.7 y=5.6 w=20.9 h=12.0  Content Placeholder 3
+    idx=1   BODY     x=11.7 y=4.5 w=20.9 h=0.9  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=5.6 w=10.4 h=12.0  Content Placeholder 3
+    idx=17  BODY     x=1.1 y=4.5 w=10.4 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[18] Content 16
+    idx=2   OBJECT   x=11.7 y=4.4 w=20.9 h=13.2  Content Placeholder 3
+    idx=1   BODY     x=11.7 y=3.3 w=20.9 h=0.9  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=4.4 w=10.4 h=13.2  Content Placeholder 3
+    idx=17  BODY     x=1.1 y=3.3 w=10.4 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[19] Content 17
+    idx=46  OBJECT   x=22.3 y=4.5 w=10.3 h=13.1  Content Placeholder 3
+    idx=44  OBJECT   x=11.7 y=4.5 w=10.3 h=13.1  Content Placeholder 3
+    idx=16  OBJECT   x=1.1 y=4.5 w=10.3 h=13.1  Content Placeholder 3
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[20] Content 18
+    idx=46  OBJECT   x=22.3 y=5.6 w=10.3 h=12.0  Content Placeholder 3
+    idx=47  BODY     x=22.3 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=44  OBJECT   x=11.7 y=5.6 w=10.3 h=12.0  Content Placeholder 3
+    idx=45  BODY     x=11.7 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=5.6 w=10.3 h=12.0  Content Placeholder 3
+    idx=17  BODY     x=1.1 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.6 h=0.9  頁尾版面配置區 2
+[21] Content 19
+    idx=46  OBJECT   x=22.3 y=4.4 w=10.3 h=13.2  Content Placeholder 3
+    idx=47  BODY     x=22.3 y=3.3 w=10.3 h=0.9  Text Placeholder 2
+    idx=44  OBJECT   x=11.7 y=4.4 w=10.3 h=13.2  Content Placeholder 3
+    idx=45  BODY     x=11.7 y=3.3 w=10.3 h=0.9  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=4.4 w=10.3 h=13.2  Content Placeholder 3
+    idx=17  BODY     x=1.1 y=3.3 w=10.3 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[22] Content 9
+    idx=25  OBJECT   x=17.0 y=11.7 w=15.6 h=5.9  Content Placeholder 3
+    idx=24  BODY     x=17.0 y=10.6 w=15.6 h=1.0  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=11.7 w=15.6 h=5.9  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=10.6 w=15.6 h=1.0  Text Placeholder 2
+    idx=2   OBJECT   x=1.1 y=4.5 w=31.5 h=5.9  Content Placeholder 3
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[23] Content 20
+    idx=28  OBJECT   x=16.9 y=12.2 w=15.6 h=5.4  Content Placeholder 3
+    idx=27  BODY     x=16.9 y=11.1 w=15.6 h=0.9  Text Placeholder 2
+    idx=24  OBJECT   x=16.9 y=5.6 w=15.7 h=5.4  Content Placeholder 3
+    idx=23  BODY     x=17.0 y=4.5 w=15.6 h=0.9  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=4.5 w=15.6 h=13.1  Content Placeholder 3
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[24] Content 21
+    idx=17  OBJECT   x=17.0 y=4.5 w=15.6 h=13.1  Content Placeholder 3
+    idx=28  OBJECT   x=1.1 y=12.2 w=15.6 h=5.5  Content Placeholder 3
+    idx=27  BODY     x=1.1 y=11.1 w=15.6 h=0.9  Text Placeholder 2
+    idx=26  OBJECT   x=1.1 y=5.6 w=15.7 h=5.4  Content Placeholder 3
+    idx=23  BODY     x=1.1 y=4.5 w=15.7 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[25] Content 22
+    idx=28  OBJECT   x=16.9 y=12.2 w=15.6 h=5.4  Content Placeholder 3
+    idx=27  BODY     x=16.9 y=11.1 w=15.6 h=0.9  Text Placeholder 2
+    idx=24  OBJECT   x=17.0 y=5.7 w=15.6 h=5.4  Content Placeholder 3
+    idx=23  BODY     x=17.0 y=4.5 w=15.6 h=0.9  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=5.7 w=15.6 h=12.0  Content Placeholder 3
+    idx=29  BODY     x=1.1 y=4.5 w=15.6 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[26] Content 23
+    idx=17  OBJECT   x=17.0 y=5.6 w=15.6 h=12.1  Content Placeholder 3
+    idx=29  BODY     x=17.0 y=4.5 w=15.6 h=0.9  Text Placeholder 2
+    idx=28  OBJECT   x=1.1 y=12.2 w=15.6 h=5.4  Content Placeholder 3
+    idx=27  BODY     x=1.1 y=11.1 w=15.6 h=0.9  Text Placeholder 2
+    idx=26  OBJECT   x=1.1 y=5.6 w=15.7 h=5.4  Content Placeholder 3
+    idx=23  BODY     x=1.1 y=4.5 w=15.7 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[27] Content 24
+    idx=25  OBJECT   x=17.0 y=12.2 w=15.6 h=5.4  Content Placeholder 3
+    idx=24  BODY     x=17.0 y=11.1 w=15.6 h=0.9  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=12.2 w=15.6 h=5.4  Content Placeholder 3
+    idx=30  BODY     x=1.1 y=11.1 w=15.6 h=0.9  Text Placeholder 2
+    idx=2   OBJECT   x=1.1 y=5.6 w=31.5 h=5.4  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=4.5 w=31.5 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[28] Content 25
+    idx=2   OBJECT   x=1.1 y=12.2 w=31.5 h=5.4  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=11.1 w=31.5 h=0.9  Text Placeholder 2
+    idx=25  OBJECT   x=17.0 y=5.6 w=15.6 h=5.4  Content Placeholder 3
+    idx=24  BODY     x=17.0 y=4.5 w=15.6 h=0.9  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=5.6 w=15.6 h=5.4  Content Placeholder 3
+    idx=31  BODY     x=1.1 y=4.5 w=15.6 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[29] Content 26
+    idx=36  OBJECT   x=17.0 y=11.1 w=15.6 h=6.5  Content Placeholder 3
+    idx=35  OBJECT   x=1.1 y=11.1 w=15.6 h=6.5  Content Placeholder 3
+    idx=32  OBJECT   x=17.0 y=4.5 w=15.6 h=6.5  Content Placeholder 3
+    idx=16  OBJECT   x=1.1 y=4.5 w=15.6 h=6.5  Content Placeholder 3
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[30] Content 27
+    idx=36  OBJECT   x=17.0 y=12.3 w=15.6 h=5.4  Content Placeholder 3
+    idx=34  BODY     x=17.0 y=11.1 w=15.6 h=0.9  Text Placeholder 2
+    idx=35  OBJECT   x=1.1 y=12.3 w=15.6 h=5.4  Content Placeholder 3
+    idx=33  BODY     x=1.1 y=11.1 w=15.6 h=0.9  Text Placeholder 2
+    idx=32  OBJECT   x=17.0 y=5.6 w=15.6 h=5.4  Content Placeholder 3
+    idx=24  BODY     x=17.0 y=4.5 w=15.6 h=0.9  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=5.6 w=15.6 h=5.4  Content Placeholder 3
+    idx=31  BODY     x=1.1 y=4.5 w=15.6 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[31] Content 28
+    idx=49  OBJECT   x=11.7 y=12.2 w=20.9 h=5.4  Content Placeholder 3
+    idx=50  BODY     x=11.7 y=11.1 w=20.9 h=0.9  Text Placeholder 2
+    idx=45  OBJECT   x=1.1 y=12.2 w=10.3 h=5.4  Content Placeholder 3
+    idx=46  BODY     x=1.1 y=11.1 w=10.3 h=0.9  Text Placeholder 2
+    idx=47  OBJECT   x=11.7 y=5.6 w=20.9 h=5.4  Content Placeholder 3
+    idx=48  BODY     x=11.7 y=4.5 w=20.9 h=0.9  Text Placeholder 2
+    idx=16  OBJECT   x=1.1 y=5.6 w=10.3 h=5.4  Content Placeholder 3
+    idx=17  BODY     x=1.1 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.9 h=0.9  頁尾版面配置區 2
+[32] Content 29
+    idx=45  OBJECT   x=22.3 y=12.2 w=10.3 h=5.4  Content Placeholder 3
+    idx=46  BODY     x=22.3 y=11.1 w=10.3 h=0.9  Text Placeholder 2
+    idx=49  OBJECT   x=1.1 y=12.2 w=20.9 h=5.4  Content Placeholder 3
+    idx=50  BODY     x=1.1 y=11.1 w=20.9 h=0.9  Text Placeholder 2
+    idx=16  OBJECT   x=22.3 y=5.6 w=10.3 h=5.4  Content Placeholder 3
+    idx=17  BODY     x=22.3 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=47  OBJECT   x=1.1 y=5.6 w=20.9 h=5.4  Content Placeholder 3
+    idx=48  BODY     x=1.1 y=4.5 w=20.9 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[33] Content 30
+    idx=50  OBJECT   x=22.3 y=11.7 w=10.3 h=5.9  Content Placeholder 3
+    idx=51  BODY     x=22.3 y=10.6 w=10.3 h=0.9  Text Placeholder 2
+    idx=48  OBJECT   x=11.7 y=11.7 w=10.3 h=5.9  Content Placeholder 3
+    idx=49  BODY     x=11.7 y=10.6 w=10.3 h=0.9  Text Placeholder 2
+    idx=46  OBJECT   x=1.1 y=11.7 w=10.3 h=5.9  Content Placeholder 3
+    idx=47  BODY     x=1.1 y=10.6 w=10.3 h=0.9  Text Placeholder 2
+    idx=2   OBJECT   x=1.1 y=4.5 w=31.5 h=6.0  Content Placeholder 3
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[34] Content 31
+    idx=50  OBJECT   x=22.3 y=12.2 w=10.3 h=5.4  Content Placeholder 3
+    idx=51  BODY     x=22.3 y=11.1 w=10.3 h=0.9  Text Placeholder 2
+    idx=48  OBJECT   x=11.7 y=12.2 w=10.3 h=5.4  Content Placeholder 3
+    idx=49  BODY     x=11.7 y=11.1 w=10.3 h=0.9  Text Placeholder 2
+    idx=46  OBJECT   x=1.1 y=12.2 w=10.3 h=5.4  Content Placeholder 3
+    idx=47  BODY     x=1.1 y=11.1 w=10.3 h=0.9  Text Placeholder 2
+    idx=2   OBJECT   x=1.1 y=5.6 w=31.5 h=5.4  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=4.5 w=31.5 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[35] Content 32
+    idx=2   OBJECT   x=1.1 y=12.2 w=31.5 h=5.4  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=11.1 w=31.5 h=0.9  Text Placeholder 2
+    idx=51  OBJECT   x=22.3 y=5.6 w=10.3 h=5.4  Content Placeholder 3
+    idx=52  BODY     x=22.3 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=49  OBJECT   x=11.7 y=5.6 w=10.3 h=5.4  Content Placeholder 3
+    idx=50  BODY     x=11.7 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=46  OBJECT   x=1.1 y=5.6 w=10.3 h=5.4  Content Placeholder 3
+    idx=48  BODY     x=1.1 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[36] Content 43
+    idx=50  OBJECT   x=22.3 y=11.7 w=10.3 h=5.9  Content Placeholder 3
+    idx=51  BODY     x=22.3 y=10.6 w=10.3 h=0.9  Text Placeholder 2
+    idx=48  OBJECT   x=11.7 y=11.7 w=10.3 h=5.9  Content Placeholder 3
+    idx=49  BODY     x=11.7 y=10.6 w=10.3 h=0.9  Text Placeholder 2
+    idx=46  OBJECT   x=1.1 y=11.7 w=10.3 h=5.9  Content Placeholder 3
+    idx=47  BODY     x=1.1 y=10.6 w=10.3 h=0.9  Text Placeholder 2
+    idx=2   OBJECT   x=1.1 y=4.5 w=15.6 h=6.0  Content Placeholder 3
+    idx=52  OBJECT   x=17.0 y=4.5 w=15.6 h=6.0  Content Placeholder 3
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[37] Content 44
+    idx=50  OBJECT   x=22.3 y=12.2 w=10.3 h=5.4  Content Placeholder 3
+    idx=51  BODY     x=22.3 y=11.1 w=10.3 h=0.9  Text Placeholder 2
+    idx=48  OBJECT   x=11.7 y=12.2 w=10.3 h=5.4  Content Placeholder 3
+    idx=49  BODY     x=11.7 y=11.1 w=10.3 h=0.9  Text Placeholder 2
+    idx=46  OBJECT   x=1.1 y=12.2 w=10.3 h=5.4  Content Placeholder 3
+    idx=47  BODY     x=1.1 y=11.1 w=10.3 h=0.9  Text Placeholder 2
+    idx=2   OBJECT   x=1.1 y=5.6 w=15.6 h=5.4  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=4.5 w=15.6 h=0.9  Text Placeholder 2
+    idx=52  OBJECT   x=16.9 y=5.6 w=15.6 h=5.4  Content Placeholder 3
+    idx=53  BODY     x=16.9 y=4.5 w=15.6 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[38] Content 45
+    idx=2   OBJECT   x=1.1 y=12.2 w=15.6 h=5.4  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=11.1 w=15.6 h=0.9  Text Placeholder 2
+    idx=51  OBJECT   x=22.3 y=5.6 w=10.3 h=5.4  Content Placeholder 3
+    idx=52  BODY     x=22.3 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=49  OBJECT   x=11.7 y=5.6 w=10.3 h=5.4  Content Placeholder 3
+    idx=50  BODY     x=11.7 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=46  OBJECT   x=1.1 y=5.6 w=10.3 h=5.4  Content Placeholder 3
+    idx=48  BODY     x=1.1 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=53  OBJECT   x=17.0 y=12.2 w=15.6 h=5.4  Content Placeholder 3
+    idx=54  BODY     x=17.0 y=11.1 w=15.6 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.7 h=0.9  頁尾版面配置區 2
+[39] Content 41
+    idx=2   OBJECT   x=1.1 y=12.2 w=10.3 h=5.4  Content Placeholder 3
+    idx=1   BODY     x=1.1 y=11.1 w=10.3 h=0.9  Text Placeholder 2
+    idx=51  OBJECT   x=22.3 y=5.6 w=10.3 h=5.4  Content Placeholder 3
+    idx=52  BODY     x=22.3 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=49  OBJECT   x=11.7 y=5.6 w=10.3 h=5.4  Content Placeholder 3
+    idx=50  BODY     x=11.7 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=46  OBJECT   x=1.1 y=5.6 w=10.3 h=5.4  Content Placeholder 3
+    idx=48  BODY     x=1.1 y=4.5 w=10.3 h=0.9  Text Placeholder 2
+    idx=53  OBJECT   x=11.8 y=12.2 w=10.3 h=5.4  Content Placeholder 3
+    idx=54  BODY     x=11.8 y=11.1 w=10.3 h=0.9  Text Placeholder 2
+    idx=55  OBJECT   x=22.3 y=12.2 w=10.3 h=5.4  Content Placeholder 3
+    idx=56  BODY     x=22.3 y=11.1 w=10.3 h=0.9  Text Placeholder 2
+    idx=0   TITLE    x=1.1 y=0.5 w=31.5 h=2.5  Slide Header Placeholder
+    idx=15  BODY     x=1.1 y=3.3 w=31.5 h=1.0  Text Placeholder 11
+    idx=3   FOOTER   x=0.9 y=17.9 w=25.8 h=0.9  頁尾版面配置區 2
+[40] 內頁（表格呈現）
+    idx=12  BODY     x=1.7 y=1.7 w=6.1 h=1.6  文字版面配置區 12
+    idx=13  BODY     x=7.3 y=2.0 w=4.8 h=1.0  文字版面配置區 14
+    idx=16  BODY     x=2.3 y=4.4 w=6.9 h=1.0  文字版面配置區 25
+    idx=17  TABLE    x=2.6 y=5.8 w=28.7 h=10.4  表格版面配置區 11
+    idx=18  SLIDE_NUMBER x=26.0 y=15.6 w=7.6 h=1.0  投影片編號版面配置區 12
+[41] 版型1
+    idx=15  BODY     x=0.9 y=17.1 w=29.8 h=0.6  文字版面配置區 7
+    idx=10  BODY     x=17.6 y=0.2 w=15.3 h=0.6  Text Placeholder 10
+    idx=17  BODY     x=0.9 y=3.7 w=32.0 h=13.1  文字版面配置區 2
+    idx=18  BODY     x=0.9 y=1.0 w=32.0 h=0.9  文字版面配置區 9
+    idx=19  BODY     x=0.9 y=2.2 w=32.0 h=0.8  文字版面配置區 12
